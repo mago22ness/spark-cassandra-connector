@@ -12,7 +12,7 @@ import com.datastax.spark.connector.util.SerialShutdownHooks
 import com.datastax.spark.connector.util.Logging
 
 /** Provides and manages connections to Cassandra.
-  *
+  *asdasdad
   * A `CassandraConnector` instance is serializable and
   * can be safely sent over network,
   * because it automatically reestablishes the connection
